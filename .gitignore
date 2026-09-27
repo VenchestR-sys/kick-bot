@@ -1,0 +1,11 @@
+kick.db
+kick.db-wal
+kick.db-shm
+data/
+logs/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
